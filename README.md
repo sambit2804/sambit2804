@@ -54,15 +54,24 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- 👨‍💻 3. Quick Visual Bio Card + Animated Emojis -->
+<!-- 👨‍💻 3. Quick Visual Bio Card + Happy Coder GIF -->
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="32"/> 
     Executive Summary &amp; Bio
   </h2>
-</div>
 
-![Quick Bio](assets/quick-bio.svg)
+  <table width="100%">
+    <tr>
+      <td width="65%" align="center">
+        <img src="assets/quick-bio.svg" alt="Quick Bio" width="100%"/>
+      </td>
+      <td width="35%" align="center">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="220" alt="Happy Coder GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ![Divider](assets/divider.svg)
 
