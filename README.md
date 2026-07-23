@@ -15,6 +15,16 @@
 
 <br/>
 
+<!-- ⚡ Custom Animated Tech Badges Bar -->
+<p align="center">
+  <img src="assets/icon-python.svg" alt="Animated Python Badge"/> &nbsp;
+  <img src="assets/icon-rust.svg" alt="Animated Rust Badge"/> &nbsp;
+  <img src="assets/icon-stellar.svg" alt="Animated Soroban Badge"/> &nbsp;
+  <img src="assets/icon-ai.svg" alt="Animated AI Badge"/>
+</p>
+
+<br/>
+
 <!-- 🐱 Coding Cat GIF & Animated Typing SVG -->
 <table>
   <tr>

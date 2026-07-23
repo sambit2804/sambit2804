@@ -1,0 +1,39 @@
+<svg fill="none" width="120" height="36" viewBox="0 0 120 36" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .badge {
+          background: #161b22;
+          border: 1px solid #f97316;
+          border-radius: 8px;
+          height: 34px;
+          display: flex;
+          align-items: center;
+          padding: 0 10px;
+          gap: 6px;
+          font-family: 'Segoe UI', sans-serif;
+          font-size: 11px;
+          font-weight: 700;
+          color: #f97316;
+          box-shadow: 0 0 10px rgba(249, 115, 22, 0.3);
+        }
+        .gear {
+          width: 18px;
+          height: 18px;
+          animation: gear-spin 4s linear infinite;
+        }
+        @keyframes gear-spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+      </style>
+      <div class="badge">
+        <svg class="gear" viewBox="0 0 24 24" fill="#f97316">
+          <path d="M12 15a3 3 0 100-6 3 3 0 000 6z"/>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M13 2h-2v2.075a8.006 8.006 0 00-2.316.958L7.213 3.56 5.799 4.975l1.472 1.472A8.008 8.008 0 006.313 8.763H4.237v2h2.076a8.006 8.006 0 00.958 2.316l-1.472 1.472 1.414 1.414 1.472-1.472c.725.433 1.506.758 2.316.958V19.5h2v-2.075c.81-.2 1.591-.525 2.316-.958l1.472 1.472 1.414-1.414-1.472-1.472c.433-.725.758-1.506.958-2.316h2.075v-2h-2.075a8.008 8.008 0 00-.958-2.316l1.472-1.472-1.414-1.414-1.472 1.472a8.006 8.006 0 00-2.316-.958V2.5zm-1 4a6 6 0 100 12 6 6 0 000-12z"/>
+        </svg>
+        <span>Rust Smart</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
