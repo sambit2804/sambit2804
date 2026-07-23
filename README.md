@@ -96,8 +96,10 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- 🚀 5. Featured Innovations & Projects Spotlight -->
+<!-- 🚀 5. Featured Innovations & Projects Spotlight + LET'S CODE GIF -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="300" alt="LET'S CODE GIF"/>
+  <br/><br/>
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="32"/> 
     Featured Innovations Spotlight
