@@ -257,7 +257,7 @@
   <br/>
 
   <p align="center">
-    <img src="assets/busy-work.gif" width="340" alt="Busy Work Lofi Coder GIF" style="border-radius: 14px; border: 2px solid #38bdf8; box-shadow: 0 8px 25px rgba(56, 189, 248, 0.3);"/>
+    <img src="assets/lofi-girl-coding.gif" width="340" alt="Lofi Girl Coding GIF" style="border-radius: 14px; border: 2px solid #38bdf8; box-shadow: 0 8px 25px rgba(56, 189, 248, 0.3);"/>
   </p>
 
   <br/>
