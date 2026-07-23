@@ -169,10 +169,19 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- ☕ 10. Custom Lofi Workstation & Telemetry Footer Frame -->
+<!-- ☕ 10. Lofi Workstation & Terminal Outro Footer -->
 <div align="center">
   <h2>☕ Lofi Workstation &amp; Terminal Outro</h2>
-  <img src="assets/footer-card.svg" alt="Lofi Workstation Footer Card" width="100%"/>
+  <table width="100%">
+    <tr>
+      <td width="38%" align="center" style="vertical-align: middle;">
+        <img src="assets/busy-work.gif" width="280" alt="Busy Work Lofi Coder GIF" style="border-radius: 12px; border: 2px solid #3b82f6;"/>
+      </td>
+      <td width="62%" align="center" style="vertical-align: middle;">
+        <img src="assets/telemetry.svg" alt="Terminal Telemetry" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
