@@ -1,0 +1,44 @@
+<svg fill="none" width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .telemetry-card {
+          background: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          padding: 16px 20px;
+          font-family: 'Fira Code', 'Courier New', monospace;
+          color: #58a6ff;
+          box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.7);
+        }
+        .row {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 8px;
+          font-size: 12px;
+        }
+        .row:last-child { margin-bottom: 0; }
+        .label { color: #8b949e; }
+        .val-green { color: #3fb950; font-weight: bold; }
+        .val-cyan { color: #38bdf8; font-weight: bold; }
+        .val-purple { color: #c084fc; font-weight: bold; }
+        .val-gold { color: #d29922; font-weight: bold; }
+      </style>
+      <div class="telemetry-card">
+        <div class="row">
+          <span><span class="label">HOST:</span> SAMBIT-NODE-01</span>
+          <span><span class="label">LOCATION:</span> KOLKATA, INDIA (UTC+5:30)</span>
+          <span><span class="label">SYSTEM:</span> <span class="val-green">NOMINAL ⚡</span></span>
+        </div>
+        <div class="row">
+          <span><span class="label">CORE:</span> AI/ML RAG + SOROBAN SMART CONTRACTS</span>
+          <span><span class="label">STATION:</span> TECHNO INDIA UNIVERSITY</span>
+        </div>
+        <div class="row">
+          <span><span class="label">STATUS:</span> <span class="val-cyan">OPEN FOR COLLABORATION &amp; HACKATHONS</span></span>
+          <span><span class="label">CACHE:</span> <span class="val-purple">VERIFIED</span></span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
