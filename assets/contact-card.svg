@@ -1,0 +1,56 @@
+<svg fill="none" width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .contact-box {
+          background: #0f172a;
+          border: 1px solid #1e293b;
+          border-radius: 14px;
+          padding: 16px 20px;
+          font-family: 'Segoe UI', sans-serif;
+          color: #fff;
+          text-align: center;
+        }
+        .contact-title {
+          font-size: 14px;
+          font-weight: 700;
+          color: #38bdf8;
+          margin-bottom: 12px;
+          letter-spacing: 1px;
+        }
+        .btn-group {
+          display: flex;
+          justify-content: center;
+          gap: 12px;
+          flex-wrap: wrap;
+        }
+        .c-btn {
+          background: #1e293b;
+          border: 1px solid #334155;
+          color: #f8fafc;
+          padding: 8px 16px;
+          border-radius: 20px;
+          font-size: 12px;
+          font-weight: 600;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        .c-btn.portfolio { border-color: #00f2fe; color: #00f2fe; }
+        .c-btn.email { border-color: #ea4335; color: #f87171; }
+        .c-btn.github { border-color: #a855f7; color: #c084fc; }
+        .c-btn.linkedin { border-color: #3b82f6; color: #60a5fa; }
+      </style>
+      <div class="contact-box">
+        <div class="contact-title">🌐 CONNECT &amp; COLLABORATE WITH SAMBIT DAS</div>
+        <div class="btn-group">
+          <div class="c-btn portfolio">🌐 Portfolio (sambit-das.vercel.app)</div>
+          <div class="c-btn email">✉️ Email (sambit.official2006@gmail.com)</div>
+          <div class="c-btn github">🐙 GitHub (@sambit2804)</div>
+          <div class="c-btn linkedin">💼 LinkedIn (Sambit Das)</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,73 @@
+<svg fill="none" width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .proj-card {
+          background: linear-gradient(135deg, #181116 0%, #261622 100%);
+          border: 1px solid #f472b6;
+          border-radius: 14px;
+          padding: 20px;
+          font-family: 'Segoe UI', sans-serif;
+          color: #fff;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          box-shadow: 0 8px 20px rgba(244, 114, 182, 0.25);
+        }
+        .proj-title {
+          font-size: 18px;
+          font-weight: 800;
+          color: #f472b6;
+          margin-bottom: 6px;
+        }
+        .proj-desc {
+          font-size: 13px;
+          color: #cbd5e1;
+          max-width: 540px;
+          line-height: 1.4;
+        }
+        .proj-tags {
+          display: flex;
+          gap: 8px;
+          margin-top: 12px;
+        }
+        .tag {
+          background: rgba(244, 114, 182, 0.15);
+          border: 1px solid rgba(244, 114, 182, 0.4);
+          color: #fbcfe8;
+          padding: 4px 10px;
+          border-radius: 6px;
+          font-size: 11px;
+          font-weight: 600;
+        }
+        .award-badge {
+          background: #db2777;
+          color: #fff;
+          padding: 10px 16px;
+          border-radius: 12px;
+          font-size: 12px;
+          font-weight: bold;
+          text-align: center;
+          box-shadow: 0 4px 12px rgba(219, 39, 119, 0.5);
+        }
+      </style>
+      <div class="proj-card">
+        <div>
+          <div class="proj-title">🎨 Sanskriti-Flow E-Commerce Platform</div>
+          <div class="proj-desc">
+            Hyper-local immersive e-commerce platform connecting traditional Bengali artisans directly with global buyers. Powered by an immersive craft storytelling discovery engine.
+          </div>
+          <div class="proj-tags">
+            <span class="tag">Full-Stack Web</span>
+            <span class="tag">TypeScript</span>
+            <span class="tag">Node.js</span>
+            <span class="tag">UI/UX Storytelling</span>
+          </div>
+        </div>
+        <div class="award-badge">
+          🌟 INNOVATEX<br/>MAKAUT
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

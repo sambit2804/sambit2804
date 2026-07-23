@@ -1,0 +1,126 @@
+<svg fill="none" width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .shooter-box {
+          background: #05050a;
+          border: 2px solid #00ff66;
+          border-radius: 14px;
+          padding: 16px 20px;
+          font-family: 'Press Start 2P', 'Fira Code', monospace;
+          color: #00ff66;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 0 20px rgba(0, 255, 102, 0.3);
+        }
+
+        .header-line {
+          display: flex;
+          justify-content: space-between;
+          font-size: 10px;
+          margin-bottom: 15px;
+          color: #00ff66;
+          text-shadow: 0 0 5px #00ff66;
+        }
+
+        .space-stage {
+          height: 100px;
+          background: radial-gradient(circle, rgba(0,255,102,0.05) 0%, rgba(0,0,0,0) 70%);
+          border: 1px dashed #1a4d2e;
+          border-radius: 8px;
+          position: relative;
+          display: flex;
+          align-items: center;
+        }
+
+        /* Spaceship / Fighter Jet */
+        .spaceship {
+          font-size: 28px;
+          position: absolute;
+          left: 40px;
+          animation: ship-fly 3s ease-in-out infinite alternate;
+        }
+
+        @keyframes ship-fly {
+          0% { transform: translateY(-20px); }
+          100% { transform: translateY(20px); }
+        }
+
+        /* Laser Bullets */
+        .laser {
+          position: absolute;
+          height: 3px;
+          width: 25px;
+          background: #00ff66;
+          box-shadow: 0 0 8px #00ff66;
+          border-radius: 2px;
+          animation: laser-shoot 1.5s linear infinite;
+        }
+
+        .laser1 { left: 75px; top: 40px; animation-delay: 0s; }
+        .laser2 { left: 75px; top: 60px; animation-delay: 0.5s; }
+
+        @keyframes laser-shoot {
+          0% { transform: translateX(0); opacity: 1; }
+          80% { opacity: 1; }
+          100% { transform: translateX(500px); opacity: 0; }
+        }
+
+        /* Incoming Commit Bugs */
+        .bug {
+          position: absolute;
+          font-size: 18px;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+          background: rgba(255, 0, 85, 0.2);
+          border: 1px solid #ff0055;
+          padding: 4px 8px;
+          border-radius: 6px;
+          font-size: 10px;
+          color: #ff4d88;
+        }
+
+        .bug1 { right: 80px; top: 25px; animation: explode1 1.5s ease infinite; }
+        .bug2 { right: 180px; top: 55px; animation: explode2 1.5s ease infinite 0.5s; }
+
+        @keyframes explode1 {
+          0%, 80% { opacity: 1; transform: scale(1); }
+          90% { opacity: 0; transform: scale(1.4); }
+          100% { opacity: 0; }
+        }
+
+        @keyframes explode2 {
+          0%, 80% { opacity: 1; transform: scale(1); }
+          90% { opacity: 0; transform: scale(1.4); }
+          100% { opacity: 0; }
+        }
+
+        .footer-status {
+          text-align: center;
+          font-size: 10px;
+          margin-top: 10px;
+          color: #66ff99;
+          letter-spacing: 1px;
+        }
+      </style>
+      <div class="shooter-box">
+        <div class="header-line">
+          <span>🚀 COMMIT DESTROYER v2.0</span>
+          <span>BUGS ELIMINATED: 9999+</span>
+          <span>STATUS: CLEAN CODE ⚡</span>
+        </div>
+        <div class="space-stage">
+          <div class="spaceship">🛩️</div>
+          <div class="laser laser1"></div>
+          <div class="laser laser2"></div>
+          <div class="bug bug1">🐛 BUG #404</div>
+          <div class="bug bug2">👾 MERGE CONFLICT</div>
+        </div>
+        <div class="footer-status">
+          PULVERIZING SYNTAX ERRORS &amp; UNHANDLED EXCEPTIONS IN REAL-TIME
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
