@@ -1,18 +1,19 @@
-<svg fill="none" width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="100%" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .proj-card {
           background: linear-gradient(135deg, #13111c 0%, #1a162b 100%);
-          border: 1px solid #7d00ff;
+          border: 1.5px solid #7d00ff;
           border-radius: 14px;
-          padding: 20px;
-          font-family: 'Segoe UI', sans-serif;
+          padding: 18px 24px;
+          font-family: 'Segoe UI', -apple-system, sans-serif;
           color: #fff;
           display: flex;
           justify-content: space-between;
           align-items: center;
           box-shadow: 0 8px 20px rgba(125, 0, 255, 0.25);
+          box-sizing: border-box;
         }
         .proj-title {
           font-size: 18px;
@@ -21,15 +22,16 @@
           margin-bottom: 6px;
         }
         .proj-desc {
-          font-size: 13px;
+          font-size: 12.5px;
           color: #cbd5e1;
-          max-width: 540px;
-          line-height: 1.4;
+          max-width: 500px;
+          line-height: 1.45;
         }
         .proj-tags {
           display: flex;
           gap: 8px;
           margin-top: 12px;
+          flex-wrap: wrap;
         }
         .tag {
           background: rgba(192, 132, 252, 0.15);
@@ -41,14 +43,16 @@
           font-weight: 600;
         }
         .award-badge {
-          background: #7d00ff;
+          background: linear-gradient(135deg, #7d00ff, #a855f7);
           color: #fff;
-          padding: 10px 16px;
+          padding: 10px 18px;
           border-radius: 12px;
-          font-size: 12px;
+          font-size: 11.5px;
           font-weight: bold;
           text-align: center;
           box-shadow: 0 4px 12px rgba(125, 0, 255, 0.5);
+          white-space: nowrap;
+          flex-shrink: 0;
         }
       </style>
       <div class="proj-card">

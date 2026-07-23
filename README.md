@@ -25,12 +25,12 @@
 <br/>
 
 <!-- 🐱 Coding Cat GIF & Animated Typing SVG -->
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="30%" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="180" alt="Coding Cat GIF"/>
     </td>
-    <td align="center" width="70%">
+    <td align="center" width="70%" valign="middle">
       <a href="https://github.com/sambit2804">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+AI%2FML+RAG+Architectures+%F0%9F%A4%96;Developing+Soroban+Rust+Smart+Contracts+%E2%9A%A1;Crafting+Immersive+Full-Stack+Web+Apps+%F0%9F%8C%90;Building+with+AI+%26+stuff+that+needs+curiosity!+%E2%9C%A8" alt="Typing SVG" />
       </a>
@@ -70,12 +70,12 @@
     Executive Summary &amp; Bio
   </h2>
 
-  <table width="100%">
+  <table align="center" width="100%">
     <tr>
-      <td width="65%" align="center">
+      <td width="65%" align="center" valign="middle">
         <img src="assets/quick-bio.svg" alt="Quick Bio" width="100%"/>
       </td>
-      <td width="35%" align="center">
+      <td width="35%" align="center" valign="middle">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="220" alt="Happy Coder GIF"/>
       </td>
     </tr>
@@ -113,9 +113,9 @@
 
   <br/>
 
-  <table width="100%">
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <h4 align="center">🤖 AI / ML &amp; Data Science</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
@@ -127,7 +127,7 @@
           <img src="https://img.shields.io/badge/RAG_Pipelines-00F2FE?style=for-the-badge&amp;logo=fastapi&amp;logoColor=black"/>
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <h4 align="center">⛓️ Blockchain &amp; Web3</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white"/>
@@ -140,7 +140,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <h4 align="center">💻 Full-Stack &amp; Modern Web</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"/>
@@ -152,7 +152,7 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="center">
         <h4 align="center">🛠️ Tools &amp; Infrastructure</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
@@ -182,15 +182,17 @@
     <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="32"/> 
     Featured Innovations Spotlight
   </h2>
+
+  <br/>
+
+  <!-- Project 1: Soroban Sports Betting -->
+  ![Soroban Sports Betting](assets/project-sportsbet.svg)
+
+  <br/>
+
+  <!-- Project 2: Sanskriti-Flow -->
+  ![Sanskriti-Flow](assets/project-sanskriti.svg)
 </div>
-
-<!-- Project 1: Soroban Sports Betting -->
-![Soroban Sports Betting](assets/project-sportsbet.svg)
-
-<br/>
-
-<!-- Project 2: Sanskriti-Flow -->
-![Sanskriti-Flow](assets/project-sanskriti.svg)
 
 ![Divider](assets/divider.svg)
 
@@ -200,9 +202,11 @@
     <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"/> 
     Achievements &amp; Leadership
   </h2>
-</div>
 
-![Achievements](assets/achievements-card.svg)
+  <br/>
+
+  ![Achievements](assets/achievements-card.svg)
+</div>
 
 ![Divider](assets/divider.svg)
 
@@ -213,22 +217,17 @@
     Real-Time GitHub Telemetry
   </h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sambit2804&amp;show_icons=true&amp;theme=cyberpunk&amp;hide_border=true&amp;count_private=true" alt="Sambit's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit2804&amp;layout=compact&amp;theme=cyberpunk&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambit2804&amp;theme=cyberpunk&amp;hide_border=true" alt="GitHub Streak" width="90%"/>
-    </td>
-  </tr>
-</table>
+  <br/>
 
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sambit2804&amp;show_icons=true&amp;theme=cyberpunk&amp;hide_border=true" alt="Sambit's GitHub Stats" height="170"/>
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit2804&amp;layout=compact&amp;theme=cyberpunk&amp;hide_border=true" alt="Top Languages" height="170"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambit2804&amp;theme=cyberpunk&amp;hide_border=true" alt="GitHub Streak" width="90%"/>
+  </p>
 </div>
 
 ![Divider](assets/divider.svg)
@@ -236,30 +235,34 @@
 <!-- 🛩️ 8. Retro Space Shooter Commit Destroyer -->
 <div align="center">
   <h2>🛩️ Bug Pulverizer &amp; Commit Destroyer</h2>
-</div>
 
-![Commit Destroyer](assets/commit-destroyer.svg)
+  <br/>
+
+  ![Commit Destroyer](assets/commit-destroyer.svg)
+</div>
 
 ![Divider](assets/divider.svg)
 
 <!-- 🌐 9. Contact Card -->
-![Contact Nexus](assets/contact-card.svg)
+<div align="center">
+  ![Contact Nexus](assets/contact-card.svg)
+</div>
 
 ![Divider](assets/divider.svg)
 
 <!-- ☕ 10. Lofi Workstation & Terminal Outro Footer -->
 <div align="center">
   <h2>☕ Lofi Workstation &amp; Terminal Outro</h2>
-  <table width="100%">
-    <tr>
-      <td width="38%" align="center" style="vertical-align: middle;">
-        <img src="assets/busy-work.gif" width="280" alt="Busy Work Lofi Coder GIF" style="border-radius: 12px; border: 2px solid #3b82f6;"/>
-      </td>
-      <td width="62%" align="center" style="vertical-align: middle;">
-        <img src="assets/telemetry.svg" alt="Terminal Telemetry" width="100%"/>
-      </td>
-    </tr>
-  </table>
+
+  <br/>
+
+  <p align="center">
+    <img src="assets/busy-work.gif" width="340" alt="Busy Work Lofi Coder GIF" style="border-radius: 14px; border: 2px solid #38bdf8; box-shadow: 0 8px 25px rgba(56, 189, 248, 0.3);"/>
+  </p>
+
+  <br/>
+
+  <img src="assets/telemetry.svg" alt="Terminal Telemetry" width="100%"/>
 </div>
 
 <br/>
@@ -270,6 +273,6 @@
 
 <br/>
 
-**Handcrafted with ⚡ &amp; Moving Logos Gallery by Sambit Das**
+**Handcrafted with ⚡, Custom SVGs &amp; Lofi Aesthetics by Sambit Das**
 
 </div>
