@@ -169,8 +169,11 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- 📡 10. Sci-Fi Terminal Telemetry Footer -->
-![Telemetry Footer](assets/telemetry.svg)
+<!-- ☕ 10. Custom Lofi Workstation & Telemetry Footer Frame -->
+<div align="center">
+  <h2>☕ Lofi Workstation &amp; Terminal Outro</h2>
+  <img src="assets/footer-card.svg" alt="Lofi Workstation Footer Card" width="100%"/>
+</div>
 
 <br/>
 
@@ -180,6 +183,6 @@
 
 <br/>
 
-**Handcrafted with ⚡, Cool GIFs &amp; Custom SVGs by Sambit Das**
+**Handcrafted with ⚡, Custom SVGs &amp; Lofi Aesthetics by Sambit Das**
 
 </div>
