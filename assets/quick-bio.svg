@@ -1,71 +1,79 @@
-<svg fill="none" width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .bio-card {
-          background: #111420;
-          border: 1px solid #2a324b;
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+          border: 1px solid #30363d;
           border-radius: 14px;
-          padding: 20px 24px;
+          padding: 22px 26px;
           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
           color: #e2e8f0;
           display: flex;
           align-items: center;
           justify-content: space-between;
-          box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+          box-shadow: 0 10px 30px rgba(0,0,0,0.6);
         }
 
         .bio-left {
-          max-width: 520px;
+          max-width: 530px;
         }
 
-        .bio-name {
-          font-size: 20px;
+        .bio-title {
+          font-size: 22px;
           font-weight: 800;
-          color: #38bdf8;
-          margin-bottom: 6px;
+          background: linear-gradient(90deg, #38bdf8, #a855f7, #f472b6);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin-bottom: 8px;
         }
 
         .bio-text {
-          font-size: 13px;
-          color: #94a3b8;
-          line-height: 1.5;
+          font-size: 13.5px;
+          color: #cbd5e1;
+          line-height: 1.55;
         }
 
-        .bio-stats {
+        .highlight {
+          color: #38bdf8;
+          font-weight: 700;
+        }
+
+        .highlight-purple {
+          color: #c084fc;
+          font-weight: 700;
+        }
+
+        .bio-badges {
           display: flex;
           flex-direction: column;
-          gap: 8px;
+          gap: 10px;
         }
 
-        .stat-pill {
-          background: #1e293b;
-          border: 1px solid #334155;
+        .badge-pill {
+          background: #1f2937;
+          border: 1px solid #374151;
           padding: 6px 14px;
           border-radius: 8px;
           font-size: 12px;
-          color: #f1f5f9;
+          font-weight: 700;
+          color: #f3f4f6;
           display: flex;
           align-items: center;
           gap: 8px;
         }
-
-        .highlight {
-          color: #f472b6;
-          font-weight: 700;
-        }
       </style>
       <div class="bio-card">
         <div class="bio-left">
-          <div class="bio-name">👋 Hi, I'm Sambit Das!</div>
+          <div class="bio-title">⚡ Sambit Das — Tech Innovator &amp; Web3 Pioneer</div>
           <div class="bio-text">
-            B.Tech CSE student at <span class="highlight">Techno India University</span> &amp; <span class="highlight">Ramakrishna Mission</span> alum. Building high-impact AI/ML RAG pipelines &amp; decentralized Soroban smart contracts on Stellar.
+            CS Undergrad at <span class="highlight">Techno India University</span>. High-velocity builder pioneering decentralized <span class="highlight-purple">Soroban Rust Smart Contracts</span> on Stellar &amp; engineering production-grade <span class="highlight">AI RAG Systems</span>. Backed by a 10-year public speaking distinction from <span class="highlight-purple">Ramakrishna Mission</span>.
           </div>
         </div>
-        <div class="bio-stats">
-          <div class="stat-pill">📍 Kolkata, India 🇮🇳</div>
-          <div class="stat-pill">💡 "Building with curiosity"</div>
-          <div class="stat-pill">🏆 Hackathon Warrior</div>
+        <div class="bio-badges">
+          <div class="badge-pill">🏆 Hackathon Finalist</div>
+          <div class="badge-pill">⛓️ Web3 Architect</div>
+          <div class="badge-pill">🤖 AI/ML Specialist</div>
         </div>
       </div>
     </div>

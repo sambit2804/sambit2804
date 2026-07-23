@@ -15,12 +15,14 @@
 
 <br/>
 
-<!-- ⚡ Custom Animated Tech Badges Bar -->
+<!-- 🌟 Official Tech Logos Bar -->
 <p align="center">
-  <img src="assets/icon-python.svg" alt="Animated Python Badge"/> &nbsp;
-  <img src="assets/icon-rust.svg" alt="Animated Rust Badge"/> &nbsp;
-  <img src="assets/icon-stellar.svg" alt="Animated Soroban Badge"/> &nbsp;
-  <img src="assets/icon-ai.svg" alt="Animated AI Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Stellar-14B8A6?style=for-the-badge&amp;logo=stellar&amp;logoColor=white" alt="Stellar"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
 </p>
 
 <br/>
@@ -202,6 +204,6 @@
 
 <br/>
 
-**Handcrafted with ⚡, Custom SVGs &amp; Lofi Aesthetics by Sambit Das**
+**Handcrafted with ⚡ &amp; Official Tech Logos by Sambit Das**
 
 </div>
