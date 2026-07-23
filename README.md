@@ -250,14 +250,14 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- ☕ 10. Lofi Workstation & Terminal Outro Footer -->
+<!-- ☕ 10. Lofi Balcony Workstation & Terminal Outro Footer -->
 <div align="center">
   <h2>☕ Lofi Workstation &amp; Terminal Outro</h2>
 
   <br/>
 
   <p align="center">
-    <img src="assets/lofi-girl-coding.gif" width="340" alt="Lofi Girl Coding GIF" style="border-radius: 14px; border: 2px solid #38bdf8; box-shadow: 0 8px 25px rgba(56, 189, 248, 0.3);"/>
+    <img src="assets/lofi-balcony-girl.gif" width="650" alt="Lofi Balcony Girl Coding GIF" style="border-radius: 16px; border: 2px solid #a855f7; box-shadow: 0 10px 30px rgba(168, 85, 247, 0.4);"/>
   </p>
 
   <br/>
