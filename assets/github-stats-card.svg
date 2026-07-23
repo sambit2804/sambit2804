@@ -1,0 +1,88 @@
+<svg fill="none" width="100%" viewBox="0 0 800 170" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .stats-box {
+          background: #0d1117;
+          border: 1.5px solid #38bdf8;
+          border-radius: 14px;
+          padding: 20px 24px;
+          font-family: 'Segoe UI', -apple-system, sans-serif;
+          color: #c9d1d9;
+          box-shadow: 0 10px 25px rgba(56, 189, 248, 0.2);
+          box-sizing: border-box;
+        }
+
+        .stats-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          border-bottom: 1px solid #21262d;
+          padding-bottom: 10px;
+          margin-bottom: 16px;
+        }
+
+        .stats-title {
+          font-size: 16px;
+          font-weight: 800;
+          color: #38bdf8;
+        }
+
+        .stats-grid {
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+          gap: 12px;
+          text-align: center;
+        }
+
+        .stat-card {
+          background: #161b22;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          padding: 12px 8px;
+        }
+
+        .stat-num {
+          font-size: 22px;
+          font-weight: 800;
+          color: #38bdf8;
+        }
+
+        .stat-num.purple { color: #c084fc; }
+        .stat-num.green { color: #4ade80; }
+        .stat-num.pink { color: #f472b6; }
+
+        .stat-lbl {
+          font-size: 11px;
+          color: #8b949e;
+          margin-top: 4px;
+          font-weight: 600;
+        }
+      </style>
+      <div class="stats-box">
+        <div class="stats-header">
+          <div class="stats-title">⚡ REAL-TIME TELEMETRY &amp; COMMIT METRICS</div>
+          <div style="font-size: 11px; color: #4ade80; font-weight: bold;">● STATUS: LIVE &amp; ACTIVE</div>
+        </div>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-num">100%</div>
+            <div class="stat-lbl">Uptime &amp; Sync</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num purple">Web3</div>
+            <div class="stat-lbl">Soroban Rust</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num green">AI RAG</div>
+            <div class="stat-lbl">LLM Pipelines</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num pink">10 Yrs</div>
+            <div class="stat-lbl">Oratory Mastery</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

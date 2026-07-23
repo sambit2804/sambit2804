@@ -219,14 +219,14 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sambit2804&amp;show_icons=true&amp;theme=cyberpunk&amp;hide_border=true" alt="Sambit's GitHub Stats" height="170"/>
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit2804&amp;layout=compact&amp;theme=cyberpunk&amp;hide_border=true" alt="Top Languages" height="170"/>
-  </p>
+  <!-- 100% Reliable Custom SVG Stats Board -->
+  ![GitHub Stats Card](assets/github-stats-card.svg)
 
+  <br/>
+
+  <!-- Real-Time Activity Graph -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambit2804&amp;theme=cyberpunk&amp;hide_border=true" alt="GitHub Streak" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sambit2804&amp;theme=react-dark" alt="Activity Graph" width="95%"/>
   </p>
 </div>
 
