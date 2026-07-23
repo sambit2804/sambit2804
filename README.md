@@ -6,12 +6,12 @@
 <br/><br/>
 
 <!-- 🎮 1. Retro Mario Arcade Header SVG -->
-![Mario Game Header](assets/game-header.svg)
+<img src="assets/game-header.svg" alt="Mario Game Header" width="100%" />
 
 <br/>
 
 <!-- ⚡ 2. Animated ASCII Banner SVG -->
-![Animated ASCII Banner](assets/ascii-animated.svg)
+<img src="assets/ascii-animated.svg" alt="Animated ASCII Banner" width="100%" />
 
 <br/>
 
@@ -61,7 +61,7 @@
 
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 👨‍💻 3. Quick Visual Bio Card + Happy Coder GIF -->
 <div align="center">
@@ -82,7 +82,7 @@
   </table>
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 🛠️ 4. Moving Logos Gallery & Technical Arsenal -->
 <div align="center">
@@ -172,7 +172,7 @@
   <img src="assets/tech-skills.svg" alt="Tech Skills Matrix" width="100%"/>
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 🚀 5. Featured Innovations & Projects Spotlight + LET'S CODE GIF -->
 <div align="center">
@@ -186,15 +186,15 @@
   <br/>
 
   <!-- Project 1: Soroban Sports Betting -->
-  ![Soroban Sports Betting](assets/project-sportsbet.svg)
+  <img src="assets/project-sportsbet.svg" alt="Soroban Sports Betting" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Project 2: Sanskriti-Flow -->
-  ![Sanskriti-Flow](assets/project-sanskriti.svg)
+  <img src="assets/project-sanskriti.svg" alt="Sanskriti-Flow" width="100%" />
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 🏆 6. Achievements & Distinctions Card -->
 <div align="center">
@@ -205,10 +205,10 @@
 
   <br/>
 
-  ![Achievements](assets/achievements-card.svg)
+  <img src="assets/achievements-card.svg" alt="Achievements" width="100%" />
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 📊 7. Real-Time GitHub Stats Telemetry -->
 <div align="center">
@@ -220,9 +220,9 @@
   <br/>
 
   <!-- 100% Reliable Custom SVG Stats Board -->
-  ![GitHub Stats Card](assets/github-stats-card.svg)
+  <img src="assets/github-stats-card.svg" alt="GitHub Stats Card" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Real-Time Activity Graph -->
   <p align="center">
@@ -230,7 +230,7 @@
   </p>
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 🛩️ 8. Retro Space Shooter Commit Destroyer -->
 <div align="center">
@@ -238,17 +238,17 @@
 
   <br/>
 
-  ![Commit Destroyer](assets/commit-destroyer.svg)
+  <img src="assets/commit-destroyer.svg" alt="Commit Destroyer" width="100%" />
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- 🌐 9. Contact Card -->
 <div align="center">
-  ![Contact Nexus](assets/contact-card.svg)
+  <img src="assets/contact-card.svg" alt="Contact Nexus" width="100%" />
 </div>
 
-![Divider](assets/divider.svg)
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 <!-- ☕ 10. Lofi Balcony Workstation & Terminal Outro Footer -->
 <div align="center">
