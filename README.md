@@ -15,14 +15,11 @@
 
 <br/>
 
-<!-- 🌟 Official Tech Logos Bar -->
+<!-- 🌟 Animated Skill Icons Strip -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Stellar-14B8A6?style=for-the-badge&amp;logo=stellar&amp;logoColor=white" alt="Stellar"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,js,html,css,nodejs,react,nextjs,pytorch,tensorflow,git,github,vscode,vercel&amp;theme=dark" alt="Animated Skill Icons" />
+  </a>
 </p>
 
 <br/>
@@ -87,7 +84,7 @@
 
 ![Divider](assets/divider.svg)
 
-<!-- 🛠️ 4. Visual Tech Skills Matrix + Developer Desk GIF -->
+<!-- 🛠️ 4. Categorized Tech Stack Arsenal with Official Moving Logos -->
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"/> 
@@ -96,14 +93,61 @@
 
   <table width="100%">
     <tr>
-      <td width="70%" align="center">
-        <img src="assets/tech-skills.svg" alt="Tech Skills Matrix" width="100%"/>
+      <td width="50%" valign="top">
+        <h4 align="center">🤖 AI / ML &amp; Data Science</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/RAG_Pipelines-00F2FE?style=for-the-badge&amp;logo=fastapi&amp;logoColor=black"/>
+        </p>
       </td>
-      <td width="30%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180" alt="Developer Desk GIF"/>
+      <td width="50%" valign="top">
+        <h4 align="center">⛓️ Blockchain &amp; Web3</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/Soroban_SDK-7D00FF?style=for-the-badge&amp;logo=stellar&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/Stellar_Network-14B8A6?style=for-the-badge&amp;logo=stellar&amp;logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Smart_Contracts-FF4500?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&amp;logo=web3dotjs&amp;logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">💻 Full-Stack &amp; Modern Web</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">🛠️ Tools &amp; Infrastructure</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
+          <img src="https://img.shields.io/badge/Linux_Terminal-4EAA25?style=for-the-badge&amp;logo=gnumetainfo&amp;logoColor=white"/>
+        </p>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- 📊 Visual Tech Skill Matrix SVG -->
+  <img src="assets/tech-skills.svg" alt="Tech Skills Matrix" width="100%"/>
 </div>
 
 ![Divider](assets/divider.svg)
@@ -204,6 +248,6 @@
 
 <br/>
 
-**Handcrafted with ⚡ &amp; Official Tech Logos by Sambit Das**
+**Handcrafted with ⚡ &amp; Animated Skill Icons by Sambit Das**
 
 </div>
